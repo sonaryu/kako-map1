@@ -296,10 +296,10 @@ Awesome, nor vice versa. **Please do not use brand logos for any purpose except
 to represent the company, product, or service to which they refer.**
 
 
-@kakao-map1/client-common
+@kako-map1/client-common
 UNLICENSED
 
-@kakao-map1/client-platform
+@kako-map1/client-platform
 UNLICENSED
 
 @simplysm/sd-angular

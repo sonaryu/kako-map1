@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient_platform=self.webpackChunkclient_platform||[]).push([[6165],{7140:(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"5f8daf9ec232cf84.png"}}]);

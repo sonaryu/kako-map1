@@ -1,0 +1,22 @@
+{
+  "name": "@kakao-map1/server",
+  "version": "1.0.7",
+  "description": "KTL 디지털직무전환 플랫폼 - 서버",
+  "author": "김석래",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonaryu/kakao-map1.git",
+    "directory": "packages/server"
+  },
+  "license": "UNLICENSED",
+  "main": "dist/main.js",
+  "private": true,
+  "sideEffects": false,
+  "engines": {
+    "node": "^16"
+  },
+  "dependencies": {
+    "bufferutil": "*",
+    "utf-8-validate": "*"
+  }
+}

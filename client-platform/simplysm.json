@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "client-platform": {
+      "type": "client",
+      "server": "server"
+    },
+      "client-common": {
+      "type": "library",
+      "autoIndex": {
+        "polyfills": [
+          "@simplysm/sd-core-browser"
+        ]
+      }
+    },
+    "server": {
+      "type": "server"
+    }
+  },
+  "localUpdates": {
+    "@simplysm/*": "../simplysm7/packages/*"
+  }
+}
